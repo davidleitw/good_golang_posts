@@ -4,6 +4,7 @@
 
 ## 系列文章
 
+- [Go語言愛好者週刊](https://github.com/polaris1119/golangweekly) 
 - [over-golang](https://github.com/overnote/over-golang)
 - [Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days)
 - [Go-Questions](https://github.com/golang-design/Go-Questions)
