@@ -22,5 +22,16 @@
 
 作者分享了一些實際開發上會遇到的問題，值得一看。
 
-## netpoller 
+--- 
+
+## 個別主題
+
+
+### netpoller 
+
 - [Go netpoller 原生網路模型原始碼講解](https://strikefreedom.top/go-netpoll-io-multiplexing-reactor)
+
+### goroutine pool
+
+- [如何裸寫一個goroutine pool](http://legendtkl.com/2016/09/06/go-pool/)
+- [fasthttp goroutine pool 解析](http://legendtkl.com/2016/09/09/fasthttp-inside/)
