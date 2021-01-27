@@ -35,3 +35,7 @@
 
 - [如何裸寫一個goroutine pool](http://legendtkl.com/2016/09/06/go-pool/)
 - [fasthttp goroutine pool 解析](http://legendtkl.com/2016/09/09/fasthttp-inside/)
+
+### 開發規範
+
+- [Uber Go語言規範 GitHub](https://github.com/xxjwxc/uber_go_guide_cn)
