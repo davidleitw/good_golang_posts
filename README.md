@@ -1,7 +1,5 @@
 # good_golang_posts
 
-
-
 這個專案用於整理一些自己覺得寫的不錯的 golang 相關資源，包含網站,文章等等
 
 如果看到不錯的文章也歡迎丟PR，之後文章比較多的時候再來做詳細一點的分類。
@@ -12,8 +10,10 @@
     - [GitHub](#GitHub)
     - [鐵人賽](#鐵人賽)
 - [底層實現](#底層實現)
-- [Standard-library](#Standard-library)
+- [Standard library](#Standard-library)
 - [延伸應用](#延伸應用)
+    - [goroutine pool](#goroutine-pool)
+    - [定時任務](#定時任務)
 - [設計模式 && 規範](#設計模式與規範)
 - [議題](#議題)
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Standard-library
+## Standard library
 
 ### Context
 - [圖解Go Context](https://mp.weixin.qq.com/s/e9xMLhDVOAOV3EbE6uGVig)
@@ -58,6 +58,11 @@
 
 - [如何裸寫一個goroutine pool](http://legendtkl.com/2016/09/06/go-pool/)
 - [fasthttp goroutine pool 解析](http://legendtkl.com/2016/09/09/fasthttp-inside/)
+
+### 定時任務
+
+- [gron 原始碼解析](https://mp.weixin.qq.com/s/gbF1ZSXe9N_m3SJUXkKvUA)
+- [gron GitHub](https://github.com/roylee0704/gron)
 
 ---
 
