@@ -1,8 +1,9 @@
 # good_golang_posts
-
 這個專案用於整理一些自己覺得寫的不錯的 golang 相關資源，包含網站,文章等等
 
 如果看到不錯的文章也歡迎丟PR，之後文章比較多的時候再來做詳細一點的分類。
+
+本專案很多文章都是從[golangweekly](https://github.com/polaris1119/golangweekly)看到的，在此感謝所有整理資源在網路上分享的人們。
 
 **分類**
 
@@ -10,7 +11,9 @@
     - [GitHub](#GitHub)
     - [鐵人賽](#鐵人賽)
 - [底層實現](#底層實現)
+    - [netpoller](#netpoller)
 - [Standard library](#Standard-library)
+    - [Context](#Context)
 - [延伸應用](#延伸應用)
     - [goroutine pool](#goroutine-pool)
     - [定時任務](#定時任務)
@@ -48,7 +51,8 @@
 
 ### Context
 - [圖解Go Context](https://mp.weixin.qq.com/s/e9xMLhDVOAOV3EbE6uGVig)
-
+- [Go語言併發以及Context](https://mp.weixin.qq.com/s/fRb4G74LW-es87jxWkiByw)
+- [Context底層實現](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-context/#611-%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86)
 
 ---
 
@@ -75,3 +79,4 @@
 ## 議題
 
 - [Golang處理百萬級請求/分鐘](https://juejin.cn/post/6844903977574744072#heading-2)
+- [如何寫出優雅的Go程式碼](https://draveness.me/golang-101/)
