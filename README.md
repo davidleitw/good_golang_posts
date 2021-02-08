@@ -80,3 +80,8 @@
 
 - [Golang處理百萬級請求/分鐘](https://juejin.cn/post/6844903977574744072#heading-2)
 - [如何寫出優雅的Go程式碼](https://draveness.me/golang-101/)
+- [gRPC實操指南](https://mp.weixin.qq.com/s/ZUQQEn4SVLYcIdbW-6YFZQ)
+
+### Distributed System
+
+- [知乎運用TIDB系統架構](https://mp.weixin.qq.com/s/k27rXayT0C7Sr_vwoIYrUw)
