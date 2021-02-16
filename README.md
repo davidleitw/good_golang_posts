@@ -82,6 +82,13 @@
 - [如何寫出優雅的Go程式碼](https://draveness.me/golang-101/)
 - [gRPC實操指南](https://mp.weixin.qq.com/s/ZUQQEn4SVLYcIdbW-6YFZQ)
 - [go-zero 作者分享](https://xie.infoq.cn/article/aafdbf584a5d4111a2324adf8)
+- [由併發模式來學習go channel 使用技巧](https://mp.weixin.qq.com/s/IMnqPFk-3yNEnsX4EpYlpQ)
+
+### 面試經驗分享
+- [值得每個Gopher 認真研讀：工作兩年收穫PingCAP、頭條和螞蟻的Offer
+](https://mp.weixin.qq.com/s/acePzNpkHISLDkaNc-8vCA)
+
+受益良多的一篇分享文
 
 ### Distributed System
 
