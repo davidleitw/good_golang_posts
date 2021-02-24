@@ -97,3 +97,7 @@
 ### Distributed System
 
 - [知乎運用TIDB系統架構](https://mp.weixin.qq.com/s/k27rXayT0C7Sr_vwoIYrUw)
+
+## K8s 
+
+- [k8s學習路徑](https://www.infoq.cn/article/9dtx*1i1z8hsxkdrpmhk)
