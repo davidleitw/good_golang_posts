@@ -1,4 +1,5 @@
 # good_golang_posts
+
 這個專案用於整理一些自己覺得寫的不錯的 golang 相關資源，包含網站,文章等等
 
 如果看到不錯的文章也歡迎丟PR，之後文章比較多的時候再來做詳細一點的分類。
@@ -101,5 +102,6 @@
 ## K8s 
 
 - [k8s學習路徑](https://www.infoq.cn/article/9dtx*1i1z8hsxkdrpmhk)
+- [k8s學習之路](https://www.zhihu.com/question/279646705)
 
-==abc==
+
