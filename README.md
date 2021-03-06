@@ -20,6 +20,7 @@
     - [定時任務](#定時任務)
 - [設計模式 && 規範](#設計模式與規範)
 - [議題](#議題)
+- [K8s](#K8s)
 
 ## 系列文章
 
@@ -107,3 +108,5 @@
 - [k8s網路策略](https://github.com/cloudnativeapp/meetup/blob/master/Kubernetes%20Course/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%85%A5%E9%97%A8%20K8s%20-Kubernetes%20%E7%BD%91%E7%BB%9C%E6%A6%82%E5%BF%B5%E5%8F%8A%E7%AD%96%E7%95%A5%E6%8E%A7%E5%88%B6.pdf)
 
 - [Kubernetes 30天學習筆記](https://ithelp.ithome.com.tw/articles/10192401)
+- [其實我真的沒想過在美國上班也被拉來參加30天分享那些年我怎麼理解 kubernetes 的運作 系列
+](https://ithelp.ithome.com.tw/users/20120317/ironman/2442)
