@@ -110,3 +110,4 @@
 - [Kubernetes 30天學習筆記](https://ithelp.ithome.com.tw/articles/10192401)
 - [其實我真的沒想過在美國上班也被拉來參加30天分享那些年我怎麼理解 kubernetes 的運作 系列
 ](https://ithelp.ithome.com.tw/users/20120317/ironman/2442)
+- [Kubernetes 原始碼分析](https://www.bookstack.cn/books/source-code-reading-notes)
