@@ -70,10 +70,12 @@
 - [如何裸寫一個goroutine pool](http://legendtkl.com/2016/09/06/go-pool/)
 - [fasthttp goroutine pool 解析](http://legendtkl.com/2016/09/09/fasthttp-inside/)
 
-### 定時任務
+### 定時任務 or 時間相關
 
 - [gron 原始碼解析](https://mp.weixin.qq.com/s/gbF1ZSXe9N_m3SJUXkKvUA)
 - [gron GitHub](https://github.com/roylee0704/gron)
+- [Go TimingWheel 實現](https://www.luozhiyun.com/archives/444)
+- [Go Timer 實現原理](https://www.luozhiyun.com/archives/458)
 
 ---
 
