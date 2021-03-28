@@ -24,6 +24,10 @@
 
 ## 系列文章
 
+### 套件分類
+
+- [go-awesome](https://github.com/shockerli/go-awesome) => 整理了各個領域常
+
 ### GitHub 
 
 - [Effective Go](https://github.com/bingohuang/effective-go-zh-en)
