@@ -26,7 +26,7 @@
 
 ### 套件分類
 
-- [go-awesome](https://github.com/shockerli/go-awesome) => 整理了各個領域常用套件，中文版本
+- [go-awesome](https://github.com/shockerli/go-awesome) : 整理了各個領域常用套件，中文版本
 
 ### GitHub 
 
@@ -122,3 +122,6 @@
 ## Nginx
 
 - [Nginx 原始碼解析](https://www.kancloud.cn/digest/understandingnginx/202587)
+
+## git
+- [Git Commit Message 這樣寫會更好，替專案引入規範與範例](https://wadehuanglearning.blogspot.com/2019/05/commit-commit-commit-why-what-commit.html)
