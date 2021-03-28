@@ -26,7 +26,7 @@
 
 ### 套件分類
 
-- [go-awesome](https://github.com/shockerli/go-awesome) => 整理了各個領域常
+- [go-awesome](https://github.com/shockerli/go-awesome) => 整理了各個領域常用套件，中文版本
 
 ### GitHub 
 
