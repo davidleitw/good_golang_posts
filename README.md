@@ -24,9 +24,11 @@
 
 ## 系列文章
 
-### 套件分類
+### 套件分類: 整理一些實用套件的專案
 
-- [go-awesome](https://github.com/shockerli/go-awesome) : 整理了各個領域常用套件，中文版本
+- [go-awesome](https://github.com/shockerli/go-awesome) 
+- [awesome-go](https://awesome-go.com/)
+- [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn)
 
 ### GitHub 
 
