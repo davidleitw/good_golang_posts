@@ -67,6 +67,9 @@
 - [Go 語言標準庫中atomic.Value 的前世今生
 ](https://mp.weixin.qq.com/s/9aNfjX2UMQKLLgSW037_uQ)
 
+### Sync.Map
+- [深度解密 sync.map](https://zhuanlan.zhihu.com/p/344834329)
+
 ---
 
 ## 延伸應用
