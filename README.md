@@ -130,3 +130,6 @@
 
 ## git
 - [Git Commit Message 這樣寫會更好，替專案引入規範與範例](https://wadehuanglearning.blogspot.com/2019/05/commit-commit-commit-why-what-commit.html)
+
+## 文檔
+- [各語言中文文檔](https://cloud.tencent.com/developer/doc/1024)
