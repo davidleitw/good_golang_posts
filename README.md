@@ -123,6 +123,7 @@
 - [其實我真的沒想過在美國上班也被拉來參加30天分享那些年我怎麼理解 kubernetes 的運作 系列
 ](https://ithelp.ithome.com.tw/users/20120317/ironman/2442)
 - [Kubernetes 原始碼分析](https://www.bookstack.cn/books/source-code-reading-notes)
+- [jaeger架設心得](https://chestermo.medium.com/%E5%9C%A8k8s%E4%B8%AD%E6%90%AD%E5%BB%BAjaeger-%E6%89%BE%E5%87%BAfastapi%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E4%B8%AD%E7%9A%84%E6%95%88%E8%83%BD%E5%BC%B1%E9%BB%9E-38c639aed19e)
 
 ## Nginx
 
