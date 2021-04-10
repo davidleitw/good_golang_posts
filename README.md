@@ -6,22 +6,6 @@
 
 本專案很多文章都是從[golangweekly](https://github.com/polaris1119/golangweekly)看到的，在此感謝所有整理資源在網路上分享的人們。
 
-**分類**
-
-- [系列文章](#系列文章)
-    - [GitHub](#GitHub)
-    - [鐵人賽](#鐵人賽)
-- [底層實現](#底層實現)
-    - [netpoller](#netpoller)
-- [Standard library](#Standard-library)
-    - [Context](#Context)
-- [延伸應用](#延伸應用)
-    - [goroutine pool](#goroutine-pool)
-    - [定時任務](#定時任務)
-- [設計模式 && 規範](#設計模式與規範)
-- [議題](#議題)
-- [K8s](#K8s)
-
 ## 系列文章
 
 ### 套件分類: 整理一些實用套件的專案
@@ -101,6 +85,7 @@
 - [gRPC實操指南](https://mp.weixin.qq.com/s/ZUQQEn4SVLYcIdbW-6YFZQ)
 - [go-zero 作者分享](https://xie.infoq.cn/article/aafdbf584a5d4111a2324adf8)
 - [由併發模式來學習go channel 使用技巧](https://mp.weixin.qq.com/s/IMnqPFk-3yNEnsX4EpYlpQ)
+- [Implementing Clean Architecture in GO](https://vidhyanshu.medium.com/implementing-clean-architecture-in-go-56aca59311b3)
 
 ### 面試經驗分享
 - [值得每個Gopher 認真研讀：工作兩年收穫PingCAP、頭條和螞蟻的Offer
