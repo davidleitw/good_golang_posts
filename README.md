@@ -82,13 +82,13 @@
 ---
 
 ## 議題
-
 - [Golang處理百萬級請求/分鐘](https://juejin.cn/post/6844903977574744072#heading-2)
 - [如何寫出優雅的Go程式碼](https://draveness.me/golang-101/)
 - [gRPC實操指南](https://mp.weixin.qq.com/s/ZUQQEn4SVLYcIdbW-6YFZQ)
 - [go-zero 作者分享](https://xie.infoq.cn/article/aafdbf584a5d4111a2324adf8)
 - [由併發模式來學習go channel 使用技巧](https://mp.weixin.qq.com/s/IMnqPFk-3yNEnsX4EpYlpQ)
 - [Implementing Clean Architecture in GO](https://vidhyanshu.medium.com/implementing-clean-architecture-in-go-56aca59311b3)
+- [Makefiles for Go Developers](https://tutorialedge.net/golang/makefiles-for-go-developers/)
 
 ### 面試經驗分享
 - [值得每個Gopher 認真研讀：工作兩年收穫PingCAP、頭條和螞蟻的Offer
@@ -97,11 +97,9 @@
 受益良多的一篇分享文
 
 ### Distributed System
-
 - [知乎運用TIDB系統架構](https://mp.weixin.qq.com/s/k27rXayT0C7Sr_vwoIYrUw)
 
 ## K8s 
-
 - [你到底知不知道什麼是 Kubernetes?](https://www.hwchiu.com/kubernetes-concept.html)
 - [k8s學習路徑](https://www.infoq.cn/article/9dtx*1i1z8hsxkdrpmhk)
 - [k8s學習之路](https://www.zhihu.com/question/279646705)
@@ -114,7 +112,6 @@
 - [jaeger架設心得](https://chestermo.medium.com/%E5%9C%A8k8s%E4%B8%AD%E6%90%AD%E5%BB%BAjaeger-%E6%89%BE%E5%87%BAfastapi%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E4%B8%AD%E7%9A%84%E6%95%88%E8%83%BD%E5%BC%B1%E9%BB%9E-38c639aed19e)
 
 ## Nginx
-
 - [Nginx 原始碼解析](https://www.kancloud.cn/digest/understandingnginx/202587)
 
 ## git
