@@ -89,6 +89,7 @@
 - [go-zero 作者分享](https://xie.infoq.cn/article/aafdbf584a5d4111a2324adf8)
 - [由併發模式來學習go channel 使用技巧](https://mp.weixin.qq.com/s/IMnqPFk-3yNEnsX4EpYlpQ)
 - [Implementing Clean Architecture in GO](https://vidhyanshu.medium.com/implementing-clean-architecture-in-go-56aca59311b3)
+  - [Clean Architecture GO Example code](https://github.com/vidu171/clean-architecture-go)   
 - [Makefiles for Go Developers](https://tutorialedge.net/golang/makefiles-for-go-developers/)
 
 ### 面試經驗分享
