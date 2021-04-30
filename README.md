@@ -91,6 +91,10 @@
 - [Implementing Clean Architecture in GO](https://vidhyanshu.medium.com/implementing-clean-architecture-in-go-56aca59311b3)
   - [Clean Architecture GO Example code](https://github.com/vidu171/clean-architecture-go)   
 - [Makefiles for Go Developers](https://tutorialedge.net/golang/makefiles-for-go-developers/)
+- 四捨五入
+  - [四捨五入在Go語言中為何如此困難](https://www.mdeditor.tw/pl/gfJe/zh-tw)
+  - [golang 向上/向下取整 四捨五入](https://www.dyxmq.cn/program/code/golang/golang-floor-ceil-round.html) 
+
 
 ### 面試經驗分享
 - [值得每個Gopher 認真研讀：工作兩年收穫PingCAP、頭條和螞蟻的Offer
