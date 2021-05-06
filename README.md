@@ -11,8 +11,10 @@
 ### 專案架構
 - [標準 Go 專案目錄結構 (Standard Go Project Layout)](https://github.com/golang-standards/project-layout/blob/master/README_zh-TW.md)
 
-### 套件分類: 整理一些實用套件的專案
+### 開源電子書資源
+- [](https://github.com/7-sevens/Developer-Books)
 
+### 套件分類: 整理一些實用套件的專案
 - [go-awesome](https://github.com/shockerli/go-awesome) 
 - [awesome-go](https://awesome-go.com/)
 - [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn)
