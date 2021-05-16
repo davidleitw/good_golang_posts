@@ -61,6 +61,9 @@
 ### Sync.Map
 - [深度解密 sync.map](https://zhuanlan.zhihu.com/p/344834329)
 
+### Sync.Pool
+- [深入淺出sync.Pool](https://juejin.cn/post/6932116329528836109)
+
 ---
 
 ## 延伸應用
