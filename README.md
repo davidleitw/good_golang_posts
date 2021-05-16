@@ -13,7 +13,7 @@
 
 ### 開源電子書資源
 - [電子書整理](https://github.com/7-sevens/Developer-Books)
-- [雲端儲存相關入門書整理](https://juejin.cn/post/6945605744620208165#heading-13)
+- [雲端儲存相關入門書整理](https://juejin.cn/post/6945605744620208165)
 
 ### 套件分類: 整理一些實用套件的專案
 - [go-awesome](https://github.com/shockerli/go-awesome) 
