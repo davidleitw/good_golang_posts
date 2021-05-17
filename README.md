@@ -112,6 +112,9 @@
 
 受益良多的一篇分享文
 
+- [準學士星國DevOps/SRE面試(Tiktok/Shopee](https://moptt.tw/p/Soft_Job.M.1614755910.A.7C3)
+- [初階 DevOps/SRE 工程師是如何煉成的](https://moptt.tw/p/Soft_Job.M.1615535884.A.7C7)
+
 ### Distributed System
 - [知乎運用TIDB系統架構](https://mp.weixin.qq.com/s/k27rXayT0C7Sr_vwoIYrUw)
 
