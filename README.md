@@ -63,7 +63,7 @@
 
 ### Sync.Pool
 - [深入淺出sync.Pool](https://juejin.cn/post/6932116329528836109)
-
+- [sync.Pool 原理深度剖析](https://juejin.cn/post/6934520326319505422)
 ---
 
 ## 延伸應用
