@@ -8,6 +8,9 @@
 
 ## 系列文章
 
+### 演算法/資料結構/刷題
+- [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
+
 ### 專案架構
 - [標準 Go 專案目錄結構 (Standard Go Project Layout)](https://github.com/golang-standards/project-layout/blob/master/README_zh-TW.md)
 
