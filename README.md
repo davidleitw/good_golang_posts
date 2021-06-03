@@ -152,3 +152,7 @@
 
 ## DataBase
 - [PostgreSQL 官方使用手冊](https://docs.postgresql.tw/)
+
+## Devops
+- [Drone 結合 Helm 部屬到 K8s上](https://www.qikqiak.com/tags/drone/)
+
