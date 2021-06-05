@@ -110,6 +110,7 @@
 
 
 ### 面試經驗分享
+- [字節跳動3 面+ 騰訊6 面一次過，原來大廠的面試也沒有想像中的那麼難](https://xie.infoq.cn/article/67c06345416ca753fea0c79b3)
 - [值得每個Gopher 認真研讀：工作兩年收穫PingCAP、頭條和螞蟻的Offer
 ](https://mp.weixin.qq.com/s/acePzNpkHISLDkaNc-8vCA)
 
