@@ -155,5 +155,6 @@
 - [PostgreSQL 官方使用手冊](https://docs.postgresql.tw/)
 
 ## Devops
+- [就是「懶」才更需要重視DevOps](https://ithelp.ithome.com.tw/users/20120491/ironman/2538)
 - [Drone 結合 Helm 部屬到 K8s上](https://www.qikqiak.com/tags/drone/)
 
