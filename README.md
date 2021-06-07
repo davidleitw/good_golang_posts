@@ -39,6 +39,8 @@
 
 作者分享了一些實際開發上會遇到的問題，值得一看。
 
+- [Kubernetes的30天養成計劃](https://ithelp.ithome.com.tw/users/20120468/ironman/2525)
+
 --- 
 
 ## 底層實現
@@ -156,5 +158,6 @@
 
 ## Devops
 - [就是「懶」才更需要重視DevOps](https://ithelp.ithome.com.tw/users/20120491/ironman/2538)
+- [Kubernetes的30天養成計劃](https://ithelp.ithome.com.tw/users/20120468/ironman/2525)
 - [Drone 結合 Helm 部屬到 K8s上](https://www.qikqiak.com/tags/drone/)
 
