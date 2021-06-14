@@ -17,6 +17,7 @@
 ### 開源電子書資源
 - [書單](https://xie.infoq.cn/article/c1a7500a48d1dab97b5b9bdb4)
 - [電子書整理](https://github.com/7-sevens/Developer-Books)
+- [Practical Go Lessons 電子書](https://www.practical-go-lessons.com/)
 - [雲端儲存相關入門書整理](https://juejin.cn/post/6945605744620208165)
 
 ### 套件分類: 整理一些實用套件的專案
