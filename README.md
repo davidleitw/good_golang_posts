@@ -15,6 +15,7 @@
 - [標準 Go 專案目錄結構 (Standard Go Project Layout)](https://github.com/golang-standards/project-layout/blob/master/README_zh-TW.md)
 
 ### 開源電子書資源
+- [Go 語言學習路線推薦書籍](https://mp.weixin.qq.com/s/aU5WqMxVS2vgGLGedZEu7w)
 - [書單](https://xie.infoq.cn/article/c1a7500a48d1dab97b5b9bdb4)
 - [電子書整理](https://github.com/7-sevens/Developer-Books)
 - [Practical Go Lessons 電子書](https://www.practical-go-lessons.com/)
