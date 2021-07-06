@@ -168,3 +168,5 @@
 - [Kubernetes的30天養成計劃](https://ithelp.ithome.com.tw/users/20120468/ironman/2525)
 - [Drone 結合 Helm 部屬到 K8s上](https://www.qikqiak.com/tags/drone/)
 
+## Linux 實用指令/工具
+- [Linux 的 scp 指令用法教學與範例：遠端加密複製檔案與目錄](https://blog.gtwang.org/linux/linux-scp-command-tutorial-examples/)
