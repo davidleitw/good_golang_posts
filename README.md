@@ -170,3 +170,4 @@
 
 ## Linux 實用指令/工具
 - [Linux 的 scp 指令用法教學與範例：遠端加密複製檔案與目錄](https://blog.gtwang.org/linux/linux-scp-command-tutorial-examples/)
+- [打造高校的工作環境 - shell 篇](https://coolshell.cn/articles/19219.html)
