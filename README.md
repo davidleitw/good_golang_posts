@@ -12,6 +12,7 @@
 - [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
 
 ### 優質Blog
+- [ARTHURCHIAO'S BLOG](http://arthurchiao.art/)
 - [Rick Hwang](https://rickhw.github.io/)
 - [OpenAcid](https://blog.openacid.com/)
 
