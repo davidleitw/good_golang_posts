@@ -14,6 +14,7 @@
 ### 優質Blog
 - [ARTHURCHIAO'S BLOG](http://arthurchiao.art/)
 - [Rick Hwang](https://rickhw.github.io/)
+- [houmin](https://houmin.cc/)
 - [OpenAcid](https://blog.openacid.com/)
 
 ### 專案架構
