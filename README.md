@@ -29,6 +29,7 @@
 - [Practical Go Lessons 電子書](https://www.practical-go-lessons.com/)
 - [雲端儲存相關入門書整理](https://juejin.cn/post/6945605744620208165)
 - [鳳凰架構: 構築可靠的大型分布式系統](http://icyfenix.cn/)
+- [Go 語言高性能編成](https://geektutu.com/post/high-performance-go.html)
 
 ### 套件分類: 整理一些實用套件的專案
 - [go-awesome](https://github.com/shockerli/go-awesome) 
