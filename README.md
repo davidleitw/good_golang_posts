@@ -127,7 +127,7 @@
 - 四捨五入
   - [四捨五入在Go語言中為何如此困難](https://www.mdeditor.tw/pl/gfJe/zh-tw)
   - [golang 向上/向下取整 四捨五入](https://www.dyxmq.cn/program/code/golang/golang-floor-ceil-round.html) 
-
+  - [Go 語言網路庫 getty 的那些事](https://xie.infoq.cn/article/3b84bbd47a4b8674c7673d028)
 
 ### 面試經驗分享
 - [字節跳動3 面+ 騰訊6 面一次過，原來大廠的面試也沒有想像中的那麼難](https://xie.infoq.cn/article/67c06345416ca753fea0c79b3)
