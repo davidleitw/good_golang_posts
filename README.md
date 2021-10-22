@@ -9,6 +9,9 @@
 ## eBPF
 - [深入理解 Linux eBPF 閱讀清單](https://blog.csdn.net/21cnbao/article/details/95585483)
 
+## linux network
+- [Beej’s Guide to Network Programming - Using Internet Sockets 翻譯](https://beej-zhtw-gitbook.netdpi.net/yuan_zhu_zi_xun)
+
 ## 系列文章
 
 ### 演算法/資料結構/刷題
