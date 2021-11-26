@@ -44,6 +44,7 @@
 - [go-awesome](https://github.com/shockerli/go-awesome) 
 - [awesome-go](https://awesome-go.com/)
 - [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn)
+- [Awesome Cloud Native](https://jimmysong.io/awesome-cloud-native/)
 
 ### GitHub 
 
