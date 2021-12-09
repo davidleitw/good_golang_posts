@@ -70,6 +70,8 @@
 
 ### 泛型
 - [Go泛型是怎麼實現的?](https://colobu.com/2021/08/30/how-is-go-generic-implemented/)
+- [為什麼在 Go 語言中要慎用 interface{}](https://juejin.cn/post/6844903591149322253)
+
 
 ### netpoller
 - [epoll 與 netpoller](https://mp.weixin.qq.com/s?__biz=MzAxMTA4Njc0OQ==&mid=2651444736&idx=2&sn=262f63e85f9bc8edceca9b41c6ec730a&chksm=80bb08f2b7cc81e4ab1d87e78ffd5fa4e1407b40b493d0e411af1b0c9f7d3cc7180087ccc0c1&scene=132#wechat_redirect)
