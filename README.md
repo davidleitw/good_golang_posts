@@ -199,3 +199,6 @@
 
 ## 密碼學相關
 - [Argon2, Memory-hard Hash Function](https://zhuanlan.zhihu.com/p/80490980)
+
+## Rate limit algorithm
+- [How to Design a Scalable Rate Limiting Algorithm](https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/)
