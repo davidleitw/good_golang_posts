@@ -202,3 +202,6 @@
 
 ## Rate limit algorithm
 - [How to Design a Scalable Rate Limiting Algorithm](https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/)
+
+## tcp
+- [深入理解TCP協定(上): 理論基礎](http://www.52im.net/thread-513-1-1.html)
