@@ -32,6 +32,7 @@
 - [eBPF top](https://www.ebpf.top/)
 - [Linux內核的奧秘](https://www.zhihu.com/column/c_1365767308858691584)
 - [linux 233333](https://cloud.tencent.com/developer/column/1960)
+- [Andrii Nakryiko's Blog (CO-RE, libbpf)](https://nakryiko.com/)
 
 ### 專案架構
 - [標準 Go 專案目錄結構 (Standard Go Project Layout)](https://github.com/golang-standards/project-layout/blob/master/README_zh-TW.md)
