@@ -6,6 +6,9 @@
 
 本專案很多文章都是從[golangweekly](https://github.com/polaris1119/golangweekly)看到的，在此感謝所有整理資源在網路上分享的人們。
 
+## CMake
+- [CMake](https://www.bookstack.cn/read/CMake-Cookbook/content-chapter2-2.1-chinese.md)
+
 ## eBPF
 - [深入理解 Linux eBPF 閱讀清單](https://blog.csdn.net/21cnbao/article/details/95585483)
 
