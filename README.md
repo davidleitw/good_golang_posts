@@ -9,6 +9,9 @@
 ## CMake
 - [CMake](https://www.bookstack.cn/read/CMake-Cookbook/content-chapter2-2.1-chinese.md)
 
+## C++
+- [山姆大叔談 C++：從歷史談起，再給個定義—Modern C++ 解惑](https://ithelp.ithome.com.tw/users/20120425/ironman/2507)
+
 ## eBPF
 - [深入理解 Linux eBPF 閱讀清單](https://blog.csdn.net/21cnbao/article/details/95585483)
 
