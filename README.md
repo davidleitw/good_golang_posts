@@ -37,7 +37,8 @@
 - [linux 233333](https://cloud.tencent.com/developer/column/1960)
 - [Andrii Nakryiko's Blog (CO-RE, libbpf)](https://nakryiko.com/)
 - [網路工程師筆記](https://www.zhihu.com/column/c_1381735582352113664)
-
+- [猿大白 Linux雲計算網路](https://www.cnblogs.com/bakari/)
+- [coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu)
 
 ### 專案架構
 - [標準 Go 專案目錄結構 (Standard Go Project Layout)](https://github.com/golang-standards/project-layout/blob/master/README_zh-TW.md)
